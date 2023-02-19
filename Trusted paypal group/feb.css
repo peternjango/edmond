@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+     list-style: none;
+     width: 50%;
+     padding-left: 250px;
+}
+li :hover {
+    color: tomato;
+}
+.logo {
+    border-radius: 10px;
+    width: 7%;
+}
+.head {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+img {
+    width: 90%;
+    padding-top: 30px;  
+}
+ol {
+    display: flex;
+}
+div {
+    padding-top: 30px;
+}
+body {
+    background-color:  #7fffd46e;
+}
