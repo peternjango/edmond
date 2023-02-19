@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+     list-style: none;
+     width: 50%;
+     padding-left: 250px;
+}
+li :hover {
+    color: tomato;
+}
+.logo {
+    border-radius: 10px;
+    width: 7%;
+}
+.head {
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+body {
+    background-color: rgba(127, 255, 212, 0.432);
+}
+.p {
+    text-align: center;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p1  {
+    padding-top: 50px;
+}
+
+.img {
+    width: 20%;
+}
+.i {
+    text-align: center;
+}
